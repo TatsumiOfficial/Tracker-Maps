@@ -1,6 +1,6 @@
 # Tracker Maps
 
-Script ini dapat digunakan untuk Mencari Lokasi User
+Script ini dapat digunakan untuk Mencari Lokasi User Memanfaatkan permission Location Browser
 
 
 ## Lisensi
